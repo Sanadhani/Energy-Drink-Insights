@@ -1,1 +1,2 @@
-# Energy-Drink-Insights
+- CodeX, a German beverage company, recently launched its energy drink in 10 Indian cities to establish a presence in the market.
+- To boost brand awareness, expand market share, and drive product development, the Marketing team conducted a survey in these cities, gathering responses from 10,000 participants.
